@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12pt;
+}
+
+input{
+    padding: 0.6em;
+    font-size: 12pt;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+.hode{
+    color: #fff;
+    text-align: center;
+    transition: font-size 0.2s;
+}
+
+.hode input{
+    display: block;
+    margin: auto;
+}
+
+.hode #e{
+}
